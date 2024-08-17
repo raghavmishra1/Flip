@@ -16,3 +16,6 @@ Lets try by changing the credentials, and see what will happen.
 
 # solve the Lab directly use this script exploit.py to do things automatic  
 ![write4](https://github.com/user-attachments/assets/6134c841-855d-4990-ad16-2500d4bf85d7)
+
+Exploit Source code is below 
+https://github.com/raghavmishra1/Flip/blob/main/exploit.py
